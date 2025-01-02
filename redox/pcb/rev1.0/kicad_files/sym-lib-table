@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "redox_rev1-rescue")(type "Legacy")(uri "${KIPRJMOD}/redox_rev1-rescue.lib")(options "")(descr ""))
+  (lib (name "Redox_library")(type "KiCad")(uri "${KIPRJMOD}/Redox_library.kicad_sym")(options "")(descr ""))
+)
